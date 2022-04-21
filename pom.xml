@@ -10,7 +10,7 @@
     </parent>
     <groupId>nl.remco</groupId>
     <artifactId>tech-it-easy</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>tech-it-easy</name>
     <description>tech-it-easy</description>
     <properties>
